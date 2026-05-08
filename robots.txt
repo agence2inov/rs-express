@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://www.au-coeur-des-saveurs.ch/sitemap.xml
